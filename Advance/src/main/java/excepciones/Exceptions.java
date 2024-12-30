@@ -5,7 +5,7 @@ public class Exceptions {
     public static void main(String[] args) {
         try {
         var cuenta = division(10,0);
-        
+
         }catch (Exception e){
             System.out.println("ocurrio un error : " + e.getMessage());
 
