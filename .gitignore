@@ -11,6 +11,9 @@ target/
 *.iws
 *.iml
 *.ipr
+.idea/dictionaries
+.idea/inspectionProfiles
+.idea/*
 
 ### Eclipse ###
 .apt_generated
